@@ -3,6 +3,9 @@
 Objetivo foi criar um sistema para estudos e aprender a usar esse framework.
 nesse projeto foi feito a conexão com um banco de dados Mysql local e na nuvem o railway para acesso remoto.
 
+## Link para visualizar o projeto.
+## https://kemuelkesley-projeto-streamlit-main-9ie7v2.streamlit.app/
+
 ## Tela - Inicio
 ![image](https://user-images.githubusercontent.com/79339726/208698724-4a8fc961-53c6-44a7-8e3e-449dbbc7d002.png)
 
