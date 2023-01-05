@@ -5,6 +5,7 @@ nesse projeto foi feito a conexão com um banco de dados Mysql local e na nuvem 
 
 ## Link para visualizar o projeto.
 ## https://kemuelkesley-projeto-streamlit-main-9ie7v2.streamlit.app/
+## <a href="https://kemuelkesley-projeto-streamlit-main-9ie7v2.streamlit.app/" target="_blank">Visite o Projeto.</a>
 
 ## Tela - Inicio
 ![image](https://user-images.githubusercontent.com/79339726/208698724-4a8fc961-53c6-44a7-8e3e-449dbbc7d002.png)
